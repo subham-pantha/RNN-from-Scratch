@@ -25,7 +25,7 @@ It's organized into two main scripts:
    - `training.py` - training loop and sample dataset
    - `output.png` - example training result (e.g. loss curve or generated output)
 
-## Example Output
+## Training Graph
 
 ![Training Result](output.png)
 
@@ -38,5 +38,6 @@ Modify `training.py` to load your own data or adjust hyperparameters. The script
 For a mathematical derivation and deeper explanation of the RNN equations used in this project, see my LinkedIn post:
 
 [Understanding RNN Math](https://www.linkedin.com/in/your-profile/post/math-rnn-derivation)
+
 
 
